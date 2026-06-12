@@ -1,0 +1,11 @@
+[project]
+name = "cs336"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyterlab>=4.5.7",
+    "tiktoken>=0.13.0",
+]
